@@ -8,7 +8,7 @@ Experienced on Front-End Engineer and QA Testing who is working with HTML/CSS, J
 
 ## Education
 
-### <span>University of Merdeka, Malang Indonesia</span> <span>2013 -- 2017</span>
+### <span>University of Merdeka, Malang Indonesia</span> <span>2013 - 2017</span>
 
 - Bachelor of Information System
 
@@ -19,27 +19,27 @@ Experienced on Front-End Engineer and QA Testing who is working with HTML/CSS, J
 
 ## Experience
 
-### <span>Software Developer, PT Huawei Tech Investment</span> <span>July 2022 -- Dec 2023</span>
+### <span>Software Developer, PT Huawei Tech Investment</span> <span>July 2022 - Dec 2023</span>
 - Get requirements from PM to implement into systems and be able to maximize the user experience;
 - Developing and conduct quality assurance on post development each cycle.
 
-### <span>Frontend Engineer, Degetek Studio</span> <span>July 2020 -- Dec 2021</span>
+### <span>Frontend Engineer, Degetek Studio</span> <span>July 2020 - Dec 2021</span>
 
 - Get designs from the UI/UX team to be implemented into website pages and be able to maximize the user experience;
 - Create web pages using various markup language variants;
 - Work closely with back end developers to do coding and troubleshooting.
 
-### <span>Staff IT, Yayasan Dana Sosial Al Falah</span> <span>Sept 2018 -- Dec 2019</span>
+### <span>Staff IT, Yayasan Dana Sosial Al Falah</span> <span>Sept 2018 - Dec 2019</span>
 
 - Hardware, Software Maintenance and Network design implementation
 - Manage and update website content
 
-### <span>Substitute Teacher, MIN 1 Malang</span> <span>July -- Aug 2018</span>
+### <span>Substitute Teacher, MIN 1 Malang</span> <span>July - Aug 2018</span>
 
 - Introducing computer basics for students
 - Prepare modules for teaching
 
-### <span>Hardcrew FTI</span> <span>Jan 2014 -- Dec 2016</span>
+### <span>Hardcrew FTI</span> <span>Jan 2014 - Dec 2016</span>
 
 - Hardware, Network Maintenance, and Software installation
 - Prepared tools and module for practicum hardware and network
