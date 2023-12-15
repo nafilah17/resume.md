@@ -2,10 +2,10 @@
 
 - <rissanafilah@gmail.com>
 - +62 822 4276 0511
-- [Linkedin](https://www.linkedin.com/in/rissa-nafilah-arifin-8793b114b/)
+- [Linkedin](https://www.linkedin.com/in/rissa-nafilah-arifin)
 
-Experienced on Front-End Engineer and QA Testing who is working with HTML/CSS, Javascript to deliver customer experiences. Looking for an opportunity to work at a company with a positive social mission.
-
+Experienced on Front-End Engineer and QA Testing who is working with HTML/CSS, Javascript to deliver customer experiences. I'm looking for an opportunity to work at a company with a positive social mission.
+  
 ## Education
 
 ### <span>University of Merdeka, Malang Indonesia</span> <span>2013 - 2017</span>
