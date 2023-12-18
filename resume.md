@@ -19,7 +19,7 @@ Experienced on Front-End Engineer and QA Testing who is working with HTML/CSS, J
 
 ## Experience
 
-### <span>Software Developer, PT Huawei Tech Investment</span> <span>July 2022 - Dec 2023</span>
+### <span>Software Developer, PT Huawei Tech Investment</span> <span>July 2022 - Sept 2023</span>
 - Get requirements from PM to implement into systems and be able to maximize the user experience;
 - Developing and conduct quality assurance on post development each cycle.
 
