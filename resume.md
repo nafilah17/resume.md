@@ -19,7 +19,7 @@ Experienced on Front-End Engineer and QA Testing who is working with HTML/CSS, J
 
 ## Experience
 
-### <span>Software Developer, PT Berkah Mitra Maju Mapan</span> <span>Jan 2024 - Mar 2024</span>
+### <span>Frontend Developer, PT Berkah Mitra Maju Mapan</span> <span>Jan 2024 - Mar 2024</span>
 - Get requirements implement into systems and be able to maximize the user experience;
 - Developing and conduct quality assurance on post development each cycle.
 
