@@ -14,10 +14,15 @@ Experienced on Front-End Engineer and QA Testing who is working with HTML/CSS, J
 
 ## Skills
 
-- Web development: HTML, CSS, JavaScript, SQL
-- Technologies: React/NextJS, AntDesign/ChakraUI
+- Web development: HTML, CSS, JavaScript, SQL, PHP
+- Technologies: React/NextJS, AntDesign/ChakraUI, Vue, Nuxt
 
 ## Experience
+
+### <span>Software Developer, PT Berkah Mitra Maju Mapan</span> <span>Jan 2024 - Mar 2024</span>
+- Get requirements implement into systems and be able to maximize the user experience;
+- Developing and conduct quality assurance on post development each cycle.
+
 
 ### <span>Software Developer, PT Huawei Tech Investment</span> <span>July 2022 - Sept 2023</span>
 - Get requirements from PM to implement into systems and be able to maximize the user experience;
@@ -46,7 +51,22 @@ Experienced on Front-End Engineer and QA Testing who is working with HTML/CSS, J
 
 ## Projects
 
+### <span>Kajawa.co.id</span> <span>2024</span>
+
+An application for buying and selling Kajawa herbal products using nuxt and vue.
+implementing several features that do not yet exist such as cart, signup with captcha, star rating, wyswyg on blog admin
+<br>
+Tech stack: Nuxt/Vue JS, CSS
+
+### <span>presta.kajawa.co.id</span> <span>2024</span>
+
+An application for buying and selling Kajawa herbal products using Prestashop. install several module for payment and blog upload.
+<br>
+Tech stack: SQL
+
+
 ### <span>BTS and Tower Information System</span> <span>2022</span>
+
 This tools will help user to reduce the amount of effort especially during rainy season and help to display single page impacted towers, and visualized maps to give more understanding to take corrent action during incident.
 <br>
 Tech stack: Javascript, CSS, SQL
