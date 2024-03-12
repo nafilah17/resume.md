@@ -20,11 +20,13 @@ Experienced on Front-End Engineer and QA Testing who is working with HTML/CSS, J
 ## Experience
 
 ### <span>Frontend Developer, PT Berkah Mitra Maju Mapan</span> <span>Jan 2024 - Mar 2024</span>
+
 - Get requirements implement into systems and be able to maximize the user experience;
 - Developing and conduct quality assurance on post development each cycle.
 
 
 ### <span>Software Developer, PT Huawei Tech Investment</span> <span>July 2022 - Sept 2023</span>
+
 - Get requirements from PM to implement into systems and be able to maximize the user experience;
 - Developing and conduct quality assurance on post development each cycle.
 
@@ -51,19 +53,13 @@ Experienced on Front-End Engineer and QA Testing who is working with HTML/CSS, J
 
 ## Projects
 
-### <span>Kajawa.co.id</span> <span>2024</span>
+### <span>Kajawa</span> <span>2024</span>
 
 An application for buying and selling Kajawa herbal products using nuxt and vue.
 implementing several features that do not yet exist such as cart, signup with captcha, star rating, wyswyg on blog admin
+Site: [kejawa.co.id](https://kejawa.co.id/).
 <br>
-Tech stack: Nuxt/Vue JS, CSS
-
-### <span>presta.kajawa.co.id</span> <span>2024</span>
-
-An application for buying and selling Kajawa herbal products using Prestashop. install several module for payment and blog upload.
-<br>
-Tech stack: SQL
-
+Tech stack: Nuxt/Vue JS, CSS, Prestashop, SQL
 
 ### <span>BTS and Tower Information System</span> <span>2022</span>
 
@@ -82,11 +78,6 @@ Tech stack: React/NextJS, ChakraUI
 Implementation design from Figma into website use ReactJs and ChakraUI, create landing page and dashboard page to present data and information. Site: [knb.kemdikbud.go.id](https://knb.kemdikbud.go.id/).
 <br>
 Tech stack: React/NextJS, ChakraUI
-
-<br>
-<br>
-<br>
-
 
 ### <span>Mini Workshop AxarSchool Content Video</span> <span>2020</span>
 
