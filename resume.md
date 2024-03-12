@@ -56,8 +56,7 @@ Experienced on Front-End Engineer and QA Testing who is working with HTML/CSS, J
 ### <span>Kajawa</span> <span>2024</span>
 
 An application for buying and selling Kajawa herbal products using nuxt and vue.
-implementing several features that do not yet exist such as cart, signup with captcha, star rating, wyswyg on blog admin
-Site: [kejawa.co.id](https://kejawa.co.id/).
+implementing several features that do not yet exist such as cart, signup with captcha, star rating, wyswyg on blog admin.
 <br>
 Tech stack: Nuxt/Vue JS, CSS, Prestashop, SQL
 
